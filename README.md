@@ -19,7 +19,7 @@
 
 This project provisions the infrastructure shown below in AWS with the help of terraform.
 
-![Layout of infrastructure](https://github.com/iac-boilerplate/img/infrastructure-v1.jpg)
+![Layout of infrastructure](https://github.com/tanhengyeow/iac-boilerplate/blob/master/img/infrastructure-v1.jpg)
 
 ### VPC (Data Center)
 
